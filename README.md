@@ -1,2 +1,2 @@
-# nova-i18n-pt-br
-Telescope Nova Brazilian Portuguese Translation
+# nova-i18n-pt-pt
+Telescope Nova Portuguese pt-PT Translation
