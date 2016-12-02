@@ -1,6 +1,6 @@
 Package.describe({
-  name: "nova:i18n-pt-br",
-  summary: "Telescope i18n package (pt_BR)",
+  name: "nova:i18n-pt-pt",
+  summary: "Telescope i18n package (pt_PT)",
   version: "0.27.0-nova",
   git: "https://github.com/TelescopeJS/telescope.git"
 });
@@ -14,6 +14,6 @@ Package.onUse(function (api) {
   ]);
 
   api.addFiles([
-    'lib/pt_BR.js'
+    'lib/pt_PT.js'
   ], ["client", "server"]);
 });
